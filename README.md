@@ -1,0 +1,2 @@
+# Data-Visualization-Global-Climate-Change-and-Sustainability-Patterns
+This project explores global climate change actions and sustainability patterns across countries and continents over time. Using data visualization techniques, it highlights responses to climate change through renewable energy adoption, CO2 emissions, &amp; other key environmental metrics, providing actionable insights for policymakers &amp; stakeholders.
